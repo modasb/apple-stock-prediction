@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+pymongo
+pandas
+plotly
+scikit-learn
+torch
+joblib
+numpy
+six==1.16.0
+kafka-python==2.0.2
